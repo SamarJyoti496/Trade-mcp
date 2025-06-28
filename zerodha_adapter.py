@@ -30,7 +30,7 @@ class ZerodhaAdapter(BrokerInterface):
                                      transaction_type=transaction_type,
                                      quantity=quantity,
                                      order_type= order_type,
-                                     variety="amo",
+                                     variety="regular",
                                      validity="DAY",
                                      product=product)
                logging.info(f"Zerodha Order Placed: ID {order_id}")
