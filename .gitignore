@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Environment variable files
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency/lock files
+uv.lock
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
