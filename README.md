@@ -158,9 +158,3 @@ def my_tool(...):
 MIT License
 
 ---
-
-## Credits
-
-- [Zerodha Kite Connect](https://kite.trade/)
-- [MCP (Modular Command Platform)](https://github.com/anthropic-ai/mcp)
-- [Claude Desktop](https://www.anthropic.com/claude)
